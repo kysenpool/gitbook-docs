@@ -6,6 +6,7 @@
 
 * [Cosmos Staking (ATOM)](user-guides/cosmos-staking-atom.md)
 * [Ethereum Staking (ETH)](user-guides/ethereum-staking-eth.md)
+* [Agoric Staking (BLD)](user-guides/agoric-staking-bld.md)
 
 ## 👩💻 Operator Guides
 

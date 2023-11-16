@@ -2,7 +2,7 @@
 description: How to delegate ATOM using the Keplr wallet
 ---
 
-# Staking Cosmos ATOMs
+# Cosmos Staking (ATOM)
 
 <figure><img src="https://cdn-images-1.medium.com/max/800/1*Ff5DpX4ohtQ88k5jsVZXJw.png" alt=""><figcaption></figcaption></figure>
 
@@ -128,7 +128,7 @@ We strive to build your trust with our technical diligence while helping support
 
 ## About Us
 
-#### 🌐 KysenPool Validator
+### 🌐 KysenPool Validator
 
 _Unlock the Power of Staking with Our Trusted Blockchain Infrastructure Services!_
 
@@ -140,28 +140,26 @@ Our infrastructure is a hybrid of data centers bolstered with Hardware Security 
 
 ***
 
-**Official Channels :**
+## **Official Channels**
 
-Email: [_**developers@kysenpool.io**_](mailto:developers@kysenpool.io)
+* Website: [https://kysenpool.io/](https://kysenpool.io/)
+* Twitter: [https://twitter.com/kysenpool](https://twitter.com/kysenpool)
+* Telegram: [https://t.me/kysenpool](https://t.me/kysenpool)
+* Medium: [https://medium.com/kysenpool](https://medium.com/kysenpool)
+* Email: [developers@kysenpool.io](mailto:developers@kysenpool.io)
 
-Website: [_**https://kysenpool.io/**_](https://kysenpool.io/)
+### **Our Dapps**
 
-Twitter: [_**https://twitter.com/kysenpool**_](https://twitter.com/kysenpool)
+* JinOro (Ethereum self-custody staking): [https://jinoro.xyz/](https://jinoro.xyz/)
+* Cosmos Outpost (Analytics):  [https://cosmosoutpost.io/](https://cosmosoutpost.io/)
 
-Telegram: [_**https://t.me/kysenpool**_](https://t.me/kysenpool)
+### Stake with KysenPool <a href="#fd61" id="fd61"></a>
 
-Medium: [_**https://medium.com/kysenpool**_](https://medium.com/kysenpool)
-
-***
-
-**Worthy Mentions :**
-
-Cosmos — [_**https://cosmosoutpost.io/**_](https://cosmosoutpost.io/)
-
-Harmony — [_**https://harmony.kysenpool.io/staking**_](https://harmony.kysenpool.io/staking)
-
-***
-
-#### Join our cause by delegating to our validator address at:
-
-[_cosmosvaloper146kwpzhmleafmhtaxulfptyhnvwxzlvm87hwnm_](https://wallet.keplr.app/chains/cosmos-hub?modal=validator\&chain=cosmoshub-4\&validator\_address=cosmosvaloper146kwpzhmleafmhtaxulfptyhnvwxzlvm87hwnm)
+* on Ethereum via [JinOro](https://www.jinoro.xyz/staking)
+* on Cosmos via [Keplr Wallet](https://wallet.keplr.app/chains/cosmos-hub?modal=validator\&chain=cosmoshub-4\&validator\_address=cosmosvaloper146kwpzhmleafmhtaxulfptyhnvwxzlvm87hwnm)
+* on Cardano visible at [PoolTool](https://pooltool.io/pool/490353aa6b85efb28922acd9e0ee1dcf6d0c269b9f0583718b0274ba/delegators) via [AdaLite](https://adalite.io/)
+* on Kava via [Keplr Wallet](https://wallet.keplr.app/chains/kava?modal=validator\&chain=kava\_2222-10\&validator\_address=kavavaloper1rpwemvmt3sex4d8qt4menglfx9rhl0x3py69wj)
+* on Quicksilver via [Keplr Wallet](https://wallet.keplr.app/chains/quicksilver?modal=validator\&chain=quicksilver-2\&validator\_address=quickvaloper1s64h9vqlnrue4d9s3y0825tdes59mgg8wwezt0)
+* on Aura at [AuraScan](https://aurascan.io/validators/auravaloper1se04rpyxc9tmphuq8ewr747ds77jhv48s7hl42)
+* on Desmos via [Forbole X](https://medium.com/kysenpool/how-to-delegate-your-tokens-on-forbole-x-874ea383f383)
+* on Harmony via [Staking Explorer](https://staking.harmony.one/validators/mainnet/one1ctwewx0pmg8k0tc8vnx4guyq9jm7dwz5k98tlm) (upon sign-in)
