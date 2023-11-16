@@ -1,8 +1,10 @@
 # Table of contents
 
+* [KysenPool](README.md)
+
 ## 💁 User Guides
 
-* [Staking Cosmos ATOMs](README.md)
+* [Staking Cosmos ATOMs](<README (1).md>)
 
 ## 👩💻 Operator Guides
 
