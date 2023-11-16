@@ -1,6 +1,6 @@
 # Table of contents
 
-* [KysenPool](README.md)
+* [Web3 Guides](README.md)
 
 ## 💁 User Guides
 

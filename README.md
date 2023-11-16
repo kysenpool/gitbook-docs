@@ -1,9 +1,11 @@
 ---
-description: Unlock the Power of Staking
+description: KysenPool — Unlock the Power of Staking
+cover: .gitbook/assets/background-1.jpg
+coverY: -303
 ---
 
-# KysenPool
+# Web3 Guides
 
 ## Prelude
 
-This is an open-sourced initiative to build upon a knowledge base repository, starting with Web3 User and Operator Guides, which we intend to moderate and build over time on the topics of decentralized finance (DeFi) particularly around staking.
+This is an open-sourced initiative to build out a set of **Web3 User and Operator Guides** on the topics of decentralized finance (DeFi) particularly around staking.  Which we intend to help foster the adoption of Web3 by rallying behind a community of users and builders.
