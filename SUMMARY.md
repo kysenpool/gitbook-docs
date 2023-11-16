@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Web3 Guides](README.md)
+* [Web3 Guidebooks](README.md)
 
 ## 💁 User Guides
 
