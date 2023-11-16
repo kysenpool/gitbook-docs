@@ -4,7 +4,8 @@
 
 ## 💁 User Guides
 
-* [Staking Cosmos ATOMs](<README (1).md>)
+* [Cosmos Staking (ATOM)](user-guides/cosmos-staking-atom.md)
+* [Ethereum Staking (ETH)](user-guides/ethereum-staking-eth.md)
 
 ## 👩💻 Operator Guides
 
