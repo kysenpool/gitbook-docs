@@ -108,7 +108,7 @@ If the wallet is unlocked and the transaction is successfully broadcasted, you w
 
 <figure><img src="https://cdn-images-1.medium.com/max/1600/1*RY9zxXMTbCY-j-lqoQGm6g.png" alt=""><figcaption></figcaption></figure>
 
-### **Congratulations! You’ve just delegated DSM to a validator!**
+**Congratulations! You’ve just delegated DSM to a validator!**
 
 Not sure if you done it right? Check your delegations and activities on the **`Wallets`** page.
 
