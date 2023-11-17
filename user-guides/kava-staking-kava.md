@@ -89,7 +89,7 @@ Enter the **amount** you wish to delegate -> Enter **memo** (optional) -> Select
 * Go to the “History” tab in the main dashboard to view your transaction history on [Mintscan](https://kava.mintscan.io/).
 * Your total delegated(staked) amount will show up under “delegated” in the main dashboard.
 
-### **Congratulations! You’ve just delegated KAVA to a validator!**
+**Congratulations! You’ve just delegated KAVA to a validator!**
 
 ***
 
@@ -141,7 +141,7 @@ Enter the **amount** you wish to delegate -> Enter **memo** (optional) -> Select
 
 ***
 
-### **How to Stake KAVA Tokens?**
+## **How to Stake KAVA Tokens?**
 
 When you are all set it is time to learn how to stake KAVA.
 
@@ -179,7 +179,7 @@ You have now staked your KAVA tokens and will begin earning staking rewards!
 
 <figure><img src="https://cdn-images-1.medium.com/max/1600/1*J-GDisP-KR4eB39CwbILTg.png" alt=""><figcaption></figcaption></figure>
 
-### **Congratulations! You’ve just delegated KAVA to a validator!**
+**Congratulations! You’ve just delegated KAVA to a validator!**
 
 ## **Stake Now with KysenPool** :point\_right: [**Keplr Wallet App**](https://wallet.keplr.app/chains/kava?modal=validator\&chain=kava\_2222-10\&validator\_address=kavavaloper1rpwemvmt3sex4d8qt4menglfx9rhl0x3py69wj)
 
