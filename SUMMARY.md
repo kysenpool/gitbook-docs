@@ -8,6 +8,7 @@
 * [Ethereum Staking (ETH)](user-guides/ethereum-staking-eth.md)
 * [Agoric Staking (BLD)](user-guides/agoric-staking-bld.md)
 * [Kava Staking (KAVA)](user-guides/kava-staking-kava.md)
+* [Desmos Staking (DSM)](user-guides/desmos-staking-dsm.md)
 
 ## 👩💻 Operator Guides
 
