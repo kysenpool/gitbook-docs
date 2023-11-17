@@ -10,6 +10,7 @@
 * [Kava Staking (KAVA)](user-guides/kava-staking-kava.md)
 * [Desmos Staking (DSM)](user-guides/desmos-staking-dsm.md)
 * [Quicksilver Staking (QCK)](user-guides/quicksilver-staking-qck.md)
+* [Aura Staking (AURA)](user-guides/aura-staking-aura.md)
 
 ## 👩💻 Operator Guides
 
