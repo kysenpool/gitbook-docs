@@ -4,6 +4,7 @@
 
 ## 💁 User Guides
 
+* [JinOro: Ethereum Staking, Simplified](user-guides/jinoro-ethereum-staking-simplified.md)
 * [Cosmos Staking (ATOM)](user-guides/cosmos-staking-atom.md)
 * [Ethereum Staking (ETH)](user-guides/ethereum-staking-eth.md)
 * [Agoric Staking (BLD)](user-guides/agoric-staking-bld.md)
