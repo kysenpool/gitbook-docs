@@ -98,7 +98,7 @@ Our infrastructure is a hybrid of data centers bolstered with Hardware Security 
 
 ### **Stake with KysenPool**
 
-* on Ethereum via [JinOro](https://www.jinoro.xyz/staking)
+* on Ethereum via [JinOro](https://www.jinoro.xyz/staking) or [Stakewise V3](https://app.stakewise.io/vault/0xe2d8f982708ce1e3814c8986cbab624ca926288a)
 * on Cosmos via [Keplr Wallet](https://wallet.keplr.app/chains/cosmos-hub?modal=validator\&chain=cosmoshub-4\&validator\_address=cosmosvaloper146kwpzhmleafmhtaxulfptyhnvwxzlvm87hwnm)
 * on Cardano visible at [PoolTool](https://pooltool.io/pool/490353aa6b85efb28922acd9e0ee1dcf6d0c269b9f0583718b0274ba/delegators) via [AdaLite](https://adalite.io/)
 * on Kava via [Keplr Wallet](https://wallet.keplr.app/chains/kava?modal=validator\&chain=kava\_2222-10\&validator\_address=kavavaloper1rpwemvmt3sex4d8qt4menglfx9rhl0x3py69wj)
