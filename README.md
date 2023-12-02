@@ -22,7 +22,7 @@ _Unlock the Power of Staking with Our Trusted Blockchain Infrastructure Services
 
 We aim to decentralize the Proof-of-Stake blockchain ecosystem. We’re highly familiar with the Tendermint-based blockchains such as **Cosmos**, Kava, Quicksilver; **Ethereum** and EVM-chains like Harmony; and substrate-based chains such as **Cardano**. Our global team is continuously improving our automations and constantly monitoring our operations to ensure high availability and resilience.
 
-Our infrastructure is a hybrid of data centers bolstered with Hardware Security Modules (HSMs), and distributed globally at multiple Cloud providers. Our mission is to help provide a sound infrastructure, tooling and services, so that developers can build with confidence. We hope you like our contributions into the ecosystems that we support. To find out more about networks that we support, checkout our website below.
+Our infrastructure is a hybrid of data centers bolstered with **Hardware Security Modules (HSMs)**, and distributed globally at multiple Cloud providers. Our mission is to help **provide a sound infrastructure, share toolings and offer foundational services**, so that token holders can stake with confidence while the blockchain ecosystems which we support continues to strengthen. We hope you like our contributions into the ecosystems that we support. To find out more about networks that we support, checkout our website below.
 
 {% embed url="https://kysenpool.io" %}
 
