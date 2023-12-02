@@ -1,5 +1,7 @@
 ---
-description: How StakeWise V3 release enabled Ethereum Pooled Staking for KysenPool
+description: >-
+  Similar to Lido and Rocketpool, StakeWise V3 is making a comeback enabling
+  permissionless Ethereum Pooled Staking for KysenPool
 ---
 
 # Stakewise V3: ETH Liquid Staking
