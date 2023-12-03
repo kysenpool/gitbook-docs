@@ -4,8 +4,8 @@
 
 ## 💁 User Guides
 
-* [JinOro: Ethereum Staking, Simplified](user-guides/jinoro-ethereum-staking-simplified.md)
-* [Stakewise V3: ETH Liquid Staking](user-guides/stakewise-v3-eth-liquid-staking.md)
+* [Ethereum Staking (ETH via JinOro)](user-guides/ethereum-staking-eth-via-jinoro.md)
+* [Ethereum Staking (ETH via Stakewise)](user-guides/ethereum-staking-eth-via-stakewise.md)
 * [Cosmos Staking (ATOM)](user-guides/cosmos-staking-atom.md)
 * [Ethereum Staking (ETH)](user-guides/ethereum-staking-eth.md)
 * [Agoric Staking (BLD)](user-guides/agoric-staking-bld.md)
