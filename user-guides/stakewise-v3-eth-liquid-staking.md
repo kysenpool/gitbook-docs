@@ -4,7 +4,7 @@ description: >-
   permissionless Ethereum Pooled Staking for validators such as KysenPool
 ---
 
-# Stakewise V3: ETH Liquid Staking
+# Ethereum Staking (ETH via Stakewise)
 
 ## ETH Liquid Staking <a href="#42ab" id="42ab"></a>
 
