@@ -2,6 +2,17 @@
 description: >-
   Similar to Lido and Rocketpool, StakeWise V3 is making a comeback enabling
   permissionless Ethereum Pooled Staking for validators such as KysenPool
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Ethereum Staking (ETH via Stakewise)
@@ -68,6 +79,8 @@ KysenPool believes in enabling the public to make the choice in staking their ET
 
 KysenPool is now expanding its offering by first enabling self-custodied ETH holders to participate in staking rewards by spinning up your own validators via [**JinOro**](https://jinoro.xyz). Now, **StakeWise V3 protocol enables exposure into a crowd-staking platform** for ETH holders with any amount of ETH to be able to participate in staking via the StakeWise V3 protocol, while receive MEV rewards shared across all stakers in KysenPool’s vault operations, as KysenPool provides a validator as a Software-as-a-Service (SaaS).
 
+## **Stake Now with KysenPool Zen** :man\_in\_lotus\_position: on [Stakewise V3](https://app.stakewise.io/vault/0xe2d8f982708ce1e3814c8986cbab624ca926288a)
+
 ***
 
 ## Summary
@@ -80,6 +93,8 @@ The StakeWise V3 concept introduces a 2-layer architecture, allowing individuals
 DISCLAIMER: Before engaging in any token minting activities, it is crucial to thoroughly verify for compliance with the local laws and regulations in your jurisdiction. Token minting, especially in the context of cryptocurrencies and blockchain, may be subject to various legal considerations that vary from one region to another. Ensure that you are aware of and adhere to all relevant legal requirements to avoid any potential legal consequences. Always seek legal advice if you are uncertain about the legal implications of minting tokens in your specific location.
 {% endhint %}
 
+
+
 ***
 
 ## About Us
@@ -88,13 +103,11 @@ DISCLAIMER: Before engaging in any token minting activities, it is crucial to th
 
 _Unlock the Power of Staking with Our Trusted Blockchain Infrastructure Services!_
 
-We aim to decentralize the Proof-of-Stake blockchain ecosystem. We’re highly familiar with the Tendermint-based blockchains such as Cosmos, Kava, Quicksilver; Ethereum and EVM-chains like Harmony; and substrate-based chains such as Cardano. Our global team is continuously improving our automations and constantly monitoring our operations to ensure high availability and resilience.
+We aim to decentralize the Proof-of-Stake blockchain ecosystem. We’re highly familiar with the Tendermint-based blockchains such as **Cosmos**, Kava, Quicksilver; **Ethereum** and EVM-chains like Harmony; and substrate-based chains such as **Cardano**. Our global team is continuously improving our automations and constantly monitoring our operations to ensure high availability and resilience.
 
-Our infrastructure is a hybrid of data centers bolstered with Hardware Security Modules (HSMs), and distributed globally at multiple Cloud providers. Our mission is to help provide a sound infrastructure, tooling and services, so that developers can build with confidence. We hope you like our contributions into the ecosystems that we support. To find out more about networks that we support, checkout our website below.
+Our infrastructure is a hybrid of data centers bolstered with **Hardware Security Modules (HSMs)**, and distributed globally at multiple Cloud providers. Our mission is to help **provide a sound infrastructure, share toolings and offer foundational services**, so that token holders can stake with confidence while the blockchain ecosystems which we support continues to strengthen. We hope you like our contributions into the ecosystems that we support. To find out more about networks that we support, checkout our website below.
 
 {% embed url="https://kysenpool.io" %}
-
-***
 
 ### **Stake with KysenPool**
 
@@ -107,7 +120,10 @@ Our infrastructure is a hybrid of data centers bolstered with Hardware Security 
 * on Desmos via [Forbole X](https://medium.com/kysenpool/how-to-delegate-your-tokens-on-forbole-x-874ea383f383)
 * on Harmony via [Staking Explorer](https://staking.harmony.one/validators/mainnet/one1ctwewx0pmg8k0tc8vnx4guyq9jm7dwz5k98tlm) (upon sign-in)
 
-***
+### **Our Dapps**
+
+* JinOro (Ethereum self-custody staking): [https://jinoro.xyz/](https://jinoro.xyz/)
+* Cosmos Outpost (Analytics):  [https://cosmosoutpost.io/](https://cosmosoutpost.io/)
 
 ### **Official Channels**
 

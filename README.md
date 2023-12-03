@@ -26,8 +26,6 @@ Our infrastructure is a hybrid of data centers bolstered with **Hardware Securit
 
 {% embed url="https://kysenpool.io" %}
 
-***
-
 ### **Stake with KysenPool**
 
 * on Ethereum via [JinOro](https://www.jinoro.xyz/staking) or [Stakewise V3](https://app.stakewise.io/vault/0xe2d8f982708ce1e3814c8986cbab624ca926288a)
@@ -39,7 +37,10 @@ Our infrastructure is a hybrid of data centers bolstered with **Hardware Securit
 * on Desmos via [Forbole X](https://medium.com/kysenpool/how-to-delegate-your-tokens-on-forbole-x-874ea383f383)
 * on Harmony via [Staking Explorer](https://staking.harmony.one/validators/mainnet/one1ctwewx0pmg8k0tc8vnx4guyq9jm7dwz5k98tlm) (upon sign-in)
 
-***
+### **Our Dapps**
+
+* JinOro (Ethereum self-custody staking): [https://jinoro.xyz/](https://jinoro.xyz/)
+* Cosmos Outpost (Analytics):  [https://cosmosoutpost.io/](https://cosmosoutpost.io/)
 
 ### **Official Channels**
 
