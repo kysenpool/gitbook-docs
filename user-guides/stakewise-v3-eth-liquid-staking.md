@@ -80,7 +80,7 @@ KysenPool believes in enabling the public to make the choice in staking their ET
 
 ## Why is KysenPool on StakeWise V3?
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*Chsyezxc-HDPeHwr" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Stakewise Snapshot.png" alt=""><figcaption><p>Snapshot preview from <a href="https://app.stakewise.io">Stakewise V3 App</a></p></figcaption></figure>
 
 KysenPool is now expanding its offering by first enabling self-custodied ETH holders to participate in staking rewards by spinning up your own validators via [**JinOro**](https://jinoro.xyz). Now, **StakeWise V3 protocol enables exposure into a crowd-staking platform** for ETH holders with any amount of ETH to be able to participate in staking via the StakeWise V3 protocol, while receive MEV rewards shared across all stakers in KysenPool’s vault operations, as KysenPool provides a validator as a Software-as-a-Service (SaaS).
 
