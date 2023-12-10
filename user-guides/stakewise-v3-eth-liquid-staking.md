@@ -2,7 +2,12 @@
 description: >-
   Similar to Lido and Rocketpool, StakeWise V3 is making a comeback enabling
   permissionless Ethereum Pooled Staking for validators such as KysenPool
+cover: ../.gitbook/assets/Stakewise Preview.png
+coverY: -3
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
