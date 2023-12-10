@@ -1,7 +1,7 @@
 ---
 description: KysenPool — Unlock the Power of Staking
 cover: .gitbook/assets/photo_2023-12-10_01-39-05.jpg
-coverY: 91
+coverY: 106.97058823529412
 ---
 
 # Web3 Guidebooks
