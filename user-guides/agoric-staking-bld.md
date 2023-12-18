@@ -4,7 +4,7 @@ description: Agoric (BLD) Staking Guide
 
 # Agoric Staking (BLD)
 
-<figure><img src="../.gitbook/assets/kysenpool partnerships - agroic.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/kysenpool staking guide.png" alt=""><figcaption></figcaption></figure>
 
 ## **What is Agoric?**
 
