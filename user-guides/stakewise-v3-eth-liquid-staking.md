@@ -22,9 +22,9 @@ layout:
 
 # Ethereum Staking (ETH via Stakewise)
 
-## ETH Liquid Staking <a href="#42ab" id="42ab"></a>
+<figure><img src="../.gitbook/assets/kysenpool stakewise - staking guide.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*Rrp411ujp8p4RxJr" alt=""><figcaption></figcaption></figure>
+## ETH Liquid Staking <a href="#42ab" id="42ab"></a>
 
 StakeWise V3 aims to address the concerns around Ethereum’s centralization in staking services, which inherently affects Ethereum’s security. By developing a decentralized staking protocol, **StakeWise V3 now allows independent commercial node operators and solo staking operators to host ETH staking services** via a user-friendly interface.
 
