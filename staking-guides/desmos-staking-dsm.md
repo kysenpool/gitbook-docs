@@ -78,7 +78,7 @@ Now I have imported the `DSM Earnings` account under **KysenPool** wallet. You c
 
 ## Delegating DSM Tokens
 
-After you have your wallet setup, let’s make a delegation now. Click the**`Delegate`** button next to the moniker of the account will bring up the following window.
+After you have your wallet setup, let’s make a delegation now. Click th&#x65;**`Delegate`** button next to the moniker of the account will bring up the following window.
 
 Let’s try to delegate DSM token from the `DSM Earnings` account now. Input **`amount`** and then click **`Next`**.
 
@@ -195,11 +195,11 @@ Our infrastructure is a hybrid of data centers bolstered with **Hardware Securit
 ### **Stake with KysenPool**
 
 * on Ethereum via [JinOro](https://www.jinoro.xyz/staking) or [Stakewise V3](https://app.stakewise.io/vault/0xe2d8f982708ce1e3814c8986cbab624ca926288a)
-* on Cosmos via [Keplr Wallet](https://wallet.keplr.app/chains/cosmos-hub?modal=validator\&chain=cosmoshub-4\&validator\_address=cosmosvaloper146kwpzhmleafmhtaxulfptyhnvwxzlvm87hwnm)
+* on Cosmos via [Keplr Wallet](https://wallet.keplr.app/chains/cosmos-hub?modal=validator\&chain=cosmoshub-4\&validator_address=cosmosvaloper146kwpzhmleafmhtaxulfptyhnvwxzlvm87hwnm)
 * on Cardano visible at [PoolTool](https://pooltool.io/pool/490353aa6b85efb28922acd9e0ee1dcf6d0c269b9f0583718b0274ba/delegators) via [AdaLite](https://adalite.io/)
-* on Kava via [Keplr Wallet](https://wallet.keplr.app/chains/kava?modal=validator\&chain=kava\_2222-10\&validator\_address=kavavaloper1rpwemvmt3sex4d8qt4menglfx9rhl0x3py69wj)
-* on Agoric via [Keplr Wallet](https://wallet.keplr.app/chains/agoric?modal=validator\&chain=agoric-3\&validator\_address=agoricvaloper1pf4dt8kcyc0vjrfedgckw57la9tarmx0mt439g\&referral=true)
-* on Quicksilver via [Keplr Wallet](https://wallet.keplr.app/chains/quicksilver?modal=validator\&chain=quicksilver-2\&validator\_address=quickvaloper1s64h9vqlnrue4d9s3y0825tdes59mgg8wwezt0)
+* on Kava via [Keplr Wallet](https://wallet.keplr.app/chains/kava?modal=validator\&chain=kava_2222-10\&validator_address=kavavaloper1rpwemvmt3sex4d8qt4menglfx9rhl0x3py69wj)
+* on Agoric via [Keplr Wallet](https://wallet.keplr.app/chains/agoric?modal=validator\&chain=agoric-3\&validator_address=agoricvaloper1pf4dt8kcyc0vjrfedgckw57la9tarmx0mt439g\&referral=true)
+* on Quicksilver via [Keplr Wallet](https://wallet.keplr.app/chains/quicksilver?modal=validator\&chain=quicksilver-2\&validator_address=quickvaloper1s64h9vqlnrue4d9s3y0825tdes59mgg8wwezt0)
 * on Aura at [AuraScan](https://aurascan.io/validators/auravaloper1se04rpyxc9tmphuq8ewr747ds77jhv48s7hl42)
 * on Desmos via [Forbole X](https://medium.com/kysenpool/how-to-delegate-your-tokens-on-forbole-x-874ea383f383)
 * on Harmony via [Staking Explorer](https://staking.harmony.one/validators/mainnet/one1ctwewx0pmg8k0tc8vnx4guyq9jm7dwz5k98tlm) (upon sign-in)

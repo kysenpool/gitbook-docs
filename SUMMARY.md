@@ -1,19 +1,20 @@
 # Table of contents
 
-* [Web3 Guidebooks](README.md)
+* [Staking and Operator Guides](README.md)
 
-## 💁 User Guides
+## 💁 Staking Guides
 
-* [Ethereum Staking (ETH via JinOro)](user-guides/jinoro-ethereum-staking-simplified.md)
-* [Ethereum Staking (ETH via Stakewise)](user-guides/stakewise-v3-eth-liquid-staking.md)
-* [Cosmos Staking (ATOM)](user-guides/cosmos-staking-atom.md)
-* [Agoric Staking (BLD)](user-guides/agoric-staking-bld.md)
-* [Kava Staking (KAVA)](user-guides/kava-staking-kava.md)
-* [Desmos Staking (DSM)](user-guides/desmos-staking-dsm.md)
-* [Quicksilver Staking (QCK)](user-guides/quicksilver-staking-qck.md)
-* [Aura Staking (AURA)](user-guides/aura-staking-aura.md)
+* [Ethereum Staking (ETH via JinOro)](staking-guides/ethereum-staking-eth-via-jinoro.md)
+* [Ethereum Staking (ETH via Stakewise)](staking-guides/ethereum-staking-eth-via-stakewise.md)
+* [Cosmos Staking (ATOM)](staking-guides/cosmos-staking-atom.md)
+* [Cardano Staking (ADA)](staking-guides/cardano-staking-ada.md)
+* [Agoric Staking (BLD)](staking-guides/agoric-staking-bld.md)
+* [Kava Staking (KAVA)](staking-guides/kava-staking-kava.md)
+* [Desmos Staking (DSM)](staking-guides/desmos-staking-dsm.md)
+* [Quicksilver Staking (QCK)](staking-guides/quicksilver-staking-qck.md)
+* [Aura Staking (AURA)](staking-guides/aura-staking-aura.md)
 
-## 👩💻 Operator Guides
+## 👩‍💻 Operator Guides
 
 * [Ethereum](operator-guides/ethereum/README.md)
   * [Validator Migration](operator-guides/ethereum/validator-migration.md)
