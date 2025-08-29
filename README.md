@@ -20,7 +20,7 @@ Let's foster the adoption of Web3 together.
 
 _Unlock the Power of Staking with Our Trusted Blockchain Infrastructure Services!_
 
-We aim to decentralize the Proof-of-Stake blockchain ecosystem by providing high-performance validation, infrastructure, and automation. Our expertise spans Tendermint-based chains like **Cosmos, Kava, Agoric, and Aura**; **Ethereum** and EVM chains such as **Harmony and Berachain**; as well as substrate-based ecosystems like **Cardano**. We’re also actively engaged with next-generation networks including **Story Protocol, Analog, Side Protocol, Pell Network, and Exocore**. Our global team continuously enhances automation and proactively monitors operations to ensure high availability, resilience, and optimal performance across all supported networks.
+We aim to decentralize the Proof-of-Stake blockchain ecosystem by providing high-performance validation, infrastructure, and automation. Our expertise spans Tendermint-based chains like **Cosmos, Kava, Agoric, and Aura**; **Ethereum** and EVM chains such as **Harmony and Berachain**; as well as substrate-based ecosystems like **Cardano**. We’re also actively engaged with next-generation networks including **Lido SSV, Story Protocol, Sahara AI, Bitway, Pell Network, Imua, and Canopy**. Our global team continuously enhances automation and proactively monitors operations to ensure high availability, resilience, and optimal performance across all supported networks.
 
 Our infrastructure is a hybrid of data centers bolstered with **Hardware Security Modules (HSMs)**, and distributed globally at multiple Cloud providers. Our mission is to help **provide a sound infrastructure, share toolings and offer foundational services**, so that token holders can stake with confidence while the blockchain ecosystems which we support continues to strengthen. We hope you like our contributions into the ecosystems that we support. To find out more about networks that we support, checkout our website below.
 
@@ -28,19 +28,16 @@ Our infrastructure is a hybrid of data centers bolstered with **Hardware Securit
 
 ### **Stake with KysenPool**
 
-* on Ethereum via [JinOro](https://www.jinoro.xyz/staking) or [Stakewise V3](https://app.stakewise.io/vault/0xe2d8f982708ce1e3814c8986cbab624ca926288a)
+* on Berachain via [BeraHub](https://hub.berachain.com/boost/0x8bca787da4be8b093c0e8bb9e62311ee61459140cd616aad48dbcab233a163da85994869983e74658fa53af595432df4/)&#x20;
 * on Cosmos via [Keplr Wallet](https://wallet.keplr.app/chains/cosmos-hub?modal=validator\&chain=cosmoshub-4\&validator_address=cosmosvaloper146kwpzhmleafmhtaxulfptyhnvwxzlvm87hwnm)
-* on Cardano visible at [PoolTool](https://pooltool.io/pool/490353aa6b85efb28922acd9e0ee1dcf6d0c269b9f0583718b0274ba/delegators) via [AdaLite](https://adalite.io/)
+* on Cardano visible at [PoolTool](https://pooltool.io/pool/490353aa6b85efb28922acd9e0ee1dcf6d0c269b9f0583718b0274ba/delegators) via [our Staking Guide](https://medium.com/kysenpool/cardano-ada-staking-guide-how-to-stake-ada-using-daedalus-yoroi-and-lace-wallets-403a135993f1)
 * on Kava via [Keplr Wallet](https://wallet.keplr.app/chains/kava?modal=validator\&chain=kava_2222-10\&validator_address=kavavaloper1rpwemvmt3sex4d8qt4menglfx9rhl0x3py69wj)
 * on Agoric via [Keplr Wallet](https://wallet.keplr.app/chains/agoric?modal=validator\&chain=agoric-3\&validator_address=agoricvaloper1pf4dt8kcyc0vjrfedgckw57la9tarmx0mt439g\&referral=true)
-* on Quicksilver via [Keplr Wallet](https://wallet.keplr.app/chains/quicksilver?modal=validator\&chain=quicksilver-2\&validator_address=quickvaloper1s64h9vqlnrue4d9s3y0825tdes59mgg8wwezt0)
 * on Aura at [AuraScan](https://aurascan.io/validators/auravaloper1se04rpyxc9tmphuq8ewr747ds77jhv48s7hl42)
-* on Desmos via [Forbole X](https://medium.com/kysenpool/how-to-delegate-your-tokens-on-forbole-x-874ea383f383)
 * on Harmony via [Staking Explorer](https://staking.harmony.one/validators/mainnet/one1ctwewx0pmg8k0tc8vnx4guyq9jm7dwz5k98tlm) (upon sign-in)
 
 ### **Our Dapps**
 
-* JinOro (Ethereum self-custody staking): [https://jinoro.xyz/](https://jinoro.xyz/)
 * Cosmos Outpost (Analytics):  [https://cosmosoutpost.io/](https://cosmosoutpost.io/)
 
 ### **Official Channels**
