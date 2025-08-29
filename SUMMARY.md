@@ -10,8 +10,6 @@
 * [Cardano Staking (ADA)](staking-guides/cardano-staking-ada.md)
 * [Agoric Staking (BLD)](staking-guides/agoric-staking-bld.md)
 * [Kava Staking (KAVA)](staking-guides/kava-staking-kava.md)
-* [Desmos Staking (DSM)](staking-guides/desmos-staking-dsm.md)
-* [Quicksilver Staking (QCK)](staking-guides/quicksilver-staking-qck.md)
 * [Aura Staking (AURA)](staking-guides/aura-staking-aura.md)
 
 ## 👩‍💻 Operator Guides
