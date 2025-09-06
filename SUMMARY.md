@@ -4,8 +4,6 @@
 
 ## 💁 Staking Guides
 
-* [Ethereum Staking (ETH via JinOro)](staking-guides/ethereum-staking-eth-via-jinoro.md)
-* [Ethereum Staking (ETH via Stakewise)](staking-guides/ethereum-staking-eth-via-stakewise.md)
 * [Cosmos Staking (ATOM)](staking-guides/cosmos-staking-atom.md)
 * [Cardano Staking (ADA)](staking-guides/cardano-staking-ada.md)
 * [Agoric Staking (BLD)](staking-guides/agoric-staking-bld.md)
