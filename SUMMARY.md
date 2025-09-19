@@ -4,9 +4,11 @@
 
 ## 💁 Staking Guides
 
-* [Cosmos Staking (ATOM)](staking-guides/cosmos-staking-atom.md)
+* [Story Staking (IP)](staking-guides/story-staking-ip.md)
 * [Cardano Staking (ADA)](staking-guides/cardano-staking-ada.md)
+* [Cosmos Staking (ATOM)](staking-guides/cosmos-staking-atom.md)
 * [Agoric Staking (BLD)](staking-guides/agoric-staking-bld.md)
+* [Harmony Staking (ONE)](staking-guides/harmony-staking-one.md)
 * [Kava Staking (KAVA)](staking-guides/kava-staking-kava.md)
 * [Aura Staking (AURA)](staking-guides/aura-staking-aura.md)
 
