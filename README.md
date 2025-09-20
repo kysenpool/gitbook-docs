@@ -20,7 +20,7 @@ Let's foster the adoption of Web3 together.
 
 _Unlock the Power of Staking with Our Trusted Blockchain Infrastructure Services!_
 
-We aim to decentralize the Proof-of-Stake blockchain ecosystem by providing high-performance validation, infrastructure, and automation. Our expertise spans Tendermint-based chains like **Cosmos, Kava, Agoric, and Aura**; **Ethereum** and EVM chains such as **Harmony and Berachain**; as well as substrate-based ecosystems like **Cardano and Midnight**. We’re also actively engaged with next-generation networks including **Lido SSV, Story Protocol, Sahara AI, Bitway, Pell Network, Imua, and Canopy**. Our global team continuously enhances automation and proactively monitors operations to ensure high availability, resilience, and optimal performance across all supported networks.
+We aim to decentralize the Proof-of-Stake blockchain ecosystem by providing high-performance validation, infrastructure, and automation. Our expertise spans Tendermint-based chains like **Cosmos, Kava, Agoric, and Aura**; **Ethereum** and EVM chains such as **Harmony**; as well as substrate-based ecosystems like **Cardano and Midnight**. We’re also actively engaged with next-generation networks including **Lido SSV, Story Protocol, Sahara AI, Bitway, Pell Network, Imua, and Canopy**. Our global team continuously enhances automation and proactively monitors operations to ensure high availability, resilience, and optimal performance across all supported networks.
 
 Our infrastructure is a hybrid of data centers bolstered with **Hardware Security Modules (HSMs)**, and distributed globally at multiple Cloud providers. Our mission is to help **provide a sound infrastructure, share toolings and offer foundational services**, so that token holders can stake with confidence while the blockchain ecosystems which we support continues to strengthen. We hope you like our contributions into the ecosystems that we support. To find out more about networks that we support, checkout our website below.
 
@@ -28,13 +28,13 @@ Our infrastructure is a hybrid of data centers bolstered with **Hardware Securit
 
 ### **Stake with KysenPool**
 
-* on Berachain via [BeraHub](https://hub.berachain.com/boost/0x8bca787da4be8b093c0e8bb9e62311ee61459140cd616aad48dbcab233a163da85994869983e74658fa53af595432df4/)&#x20;
-* on Cosmos via [Keplr Wallet](https://wallet.keplr.app/chains/cosmos-hub?modal=validator\&chain=cosmoshub-4\&validator_address=cosmosvaloper146kwpzhmleafmhtaxulfptyhnvwxzlvm87hwnm)
+* on Story via [Staking Explorer](https://staking.story.foundation/validators/0x3e13a106de45bc493bed240913dd3f501af0beac)
 * on Cardano visible at [PoolTool](https://pooltool.io/pool/490353aa6b85efb28922acd9e0ee1dcf6d0c269b9f0583718b0274ba/delegators) via [our Staking Guide](https://medium.com/kysenpool/cardano-ada-staking-guide-how-to-stake-ada-using-daedalus-yoroi-and-lace-wallets-403a135993f1)
-* on Kava via [Keplr Wallet](https://wallet.keplr.app/chains/kava?modal=validator\&chain=kava_2222-10\&validator_address=kavavaloper1rpwemvmt3sex4d8qt4menglfx9rhl0x3py69wj)
+* on Cosmos via [Keplr Wallet](https://wallet.keplr.app/chains/cosmos-hub?modal=validator\&chain=cosmoshub-4\&validator_address=cosmosvaloper146kwpzhmleafmhtaxulfptyhnvwxzlvm87hwnm)
 * on Agoric via [Keplr Wallet](https://wallet.keplr.app/chains/agoric?modal=validator\&chain=agoric-3\&validator_address=agoricvaloper1pf4dt8kcyc0vjrfedgckw57la9tarmx0mt439g\&referral=true)
-* on Aura at [AuraScan](https://aurascan.io/validators/auravaloper1se04rpyxc9tmphuq8ewr747ds77jhv48s7hl42)
 * on Harmony via [Staking Explorer](https://staking.harmony.one/validators/mainnet/one1ctwewx0pmg8k0tc8vnx4guyq9jm7dwz5k98tlm) (upon sign-in)
+* on Kava via [Keplr Wallet](https://wallet.keplr.app/chains/kava?modal=validator\&chain=kava_2222-10\&validator_address=kavavaloper1rpwemvmt3sex4d8qt4menglfx9rhl0x3py69wj)
+* on Aura at [AuraScan](https://aurascan.io/validators/auravaloper1se04rpyxc9tmphuq8ewr747ds77jhv48s7hl42)
 
 ### **Our Dapps**
 

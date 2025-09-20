@@ -144,12 +144,13 @@ Our infrastructure is a hybrid of data centers bolstered with **Hardware Securit
 
 ### Stake with KysenPool
 
-* on Cosmos via [Keplr Wallet](https://wallet.keplr.app/chains/cosmos-hub?modal=validator\&chain=cosmoshub-4\&validator_address=cosmosvaloper146kwpzhmleafmhtaxulfptyhnvwxzlvm87hwnm)
+* on Story via [Staking Explorer](https://staking.story.foundation/validators/0x3e13a106de45bc493bed240913dd3f501af0beac)
 * on Cardano visible at [PoolTool](https://pooltool.io/pool/490353aa6b85efb28922acd9e0ee1dcf6d0c269b9f0583718b0274ba/delegators) via [our Staking Guide](https://medium.com/kysenpool/cardano-ada-staking-guide-how-to-stake-ada-using-daedalus-yoroi-and-lace-wallets-403a135993f1)
-* on Kava via [Keplr Wallet](https://wallet.keplr.app/chains/kava?modal=validator\&chain=kava_2222-10\&validator_address=kavavaloper1rpwemvmt3sex4d8qt4menglfx9rhl0x3py69wj)
+* on Cosmos via [Keplr Wallet](https://wallet.keplr.app/chains/cosmos-hub?modal=validator\&chain=cosmoshub-4\&validator_address=cosmosvaloper146kwpzhmleafmhtaxulfptyhnvwxzlvm87hwnm)
 * on Agoric via [Keplr Wallet](https://wallet.keplr.app/chains/agoric?modal=validator\&chain=agoric-3\&validator_address=agoricvaloper1pf4dt8kcyc0vjrfedgckw57la9tarmx0mt439g\&referral=true)
-* on Aura at [AuraScan](https://aurascan.io/validators/auravaloper1se04rpyxc9tmphuq8ewr747ds77jhv48s7hl42)
 * on Harmony via [Staking Explorer](https://staking.harmony.one/validators/mainnet/one1ctwewx0pmg8k0tc8vnx4guyq9jm7dwz5k98tlm) (upon sign-in)
+* on Kava via [Keplr Wallet](https://wallet.keplr.app/chains/kava?modal=validator\&chain=kava_2222-10\&validator_address=kavavaloper1rpwemvmt3sex4d8qt4menglfx9rhl0x3py69wj)
+* on Aura at [AuraScan](https://aurascan.io/validators/auravaloper1se04rpyxc9tmphuq8ewr747ds77jhv48s7hl42)
 
 ### Our Dapps
 
